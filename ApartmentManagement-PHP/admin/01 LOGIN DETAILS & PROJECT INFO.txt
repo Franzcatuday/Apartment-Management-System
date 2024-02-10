@@ -1,0 +1,9 @@
+
+**Database Name: apartmentphp**
+
+**Admin Login Details**
+
+Username: admin
+Password: Password
+
+
